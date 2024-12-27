@@ -12,7 +12,9 @@ dependencies:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
   livekit_client:
-    path: ../client-sdk-flutter
+    git: 
+      url: https://github.com/livekit/client-sdk-flutter.git
+      ref: feat/audio-filter-supports
 
 dev_dependencies:
   flutter_test:
