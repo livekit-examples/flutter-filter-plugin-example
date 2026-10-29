@@ -1,3 +1,6 @@
+> [!WARNING]
+> This example is archived and no longer maintained. For current examples, see [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter).
+
 # flutter-filter-plugin-example
 
 ## Usage
